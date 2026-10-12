@@ -1,0 +1,13 @@
+-f https://data.pyg.org/whl/torch-2.9.0+cu128.html
+torch==2.9.0
+torch-geometric==2.7.0
+torch_cluster==1.6.3
+torch_scatter==2.1.2
+torch_sparse==0.6.18
+torch_spline_conv==1.2.2
+fair-esm @ git+https://github.com/facebookresearch/esm.git@2b369911bb5b4b0dda914521b9475cad1656b2ac
+biotite==0.40.0
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+tqdm==4.67.1

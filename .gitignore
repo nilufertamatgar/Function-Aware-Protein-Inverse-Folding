@@ -1,0 +1,9 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore heavy data files
+/ProteinMPNN/data/*
+!/ProteinMPNN/data/.gitkeep
+/ProteinMPNN/INFERENCE/Inputs/
+/ProteinMPNN/INFERENCE/ProteinMPNN_Eval_Inputs.tar.gz

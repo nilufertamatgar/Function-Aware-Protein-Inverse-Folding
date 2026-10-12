@@ -1,0 +1,12 @@
+checkpoints/*
+data/*
+logs/*
+results/*
+
+!/data/.gitkeep
+!/checkpoints/.gitkeep
+!/logs/.gitkeep
+!/results/.gitkeep
+
+__pycache__/
+*.py[cod]
