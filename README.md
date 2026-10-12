@@ -23,10 +23,11 @@ The root README is intentionally kept as a high-level index and does not duplica
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{yao2026structure2function,
-	title={From Structure to Function: Preference Alignment for Function-aware Protein Inverse Folding},
-	author={Nilufer Tamatgar, Soobin Park, Yinghua Yao, Xixian Chen, Yuangang Pan},
-	booktitle={Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-	year={2026}
+@inproceedings{tamatgar2026structure,
+  title={From Structure to Function: Preference Alignment for Function-aware Protein Inverse Folding},
+  author={Tamatgar, Nilufer and Park, Soobin and Yao, Yinghua and Chen, Xixian and Pan, Yuangang},
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
+  pages={12066--12077},
+  year={2026}
 }
 ```
